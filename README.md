@@ -7,3 +7,7 @@
 
 2. Used colab.google.research
 3. Data - dow jones datasets
+    - needs to be in same directory as program  (isnt thsi way in repo)
+
+4. `https://archive.ics.uci.edu/ml/index.php`
+    - ML REPO
